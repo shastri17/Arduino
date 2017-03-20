@@ -3,7 +3,7 @@ Arduino is project which is built for home automation using bluetooth module for
 
 
 ### documentation
-For detailed documentation is at 
+detailed documentation is at 
 [@docs](https://drive.google.com/open?id=1MjL83PumCrLhQUeWlOTwUJXoN5VBvMZYEclxGGq2uCU)
 
 
